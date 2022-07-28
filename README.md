@@ -5,6 +5,12 @@
 npm install
 ```
 
+## ssr mode launch
+```
+npm run build:win
+npm run server
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
